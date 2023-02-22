@@ -4,7 +4,6 @@ package manchapr;
  *
  * @author manch
  */
-//hello
 class Inventory {       //Creating class name "Inventory"
     
     //creating private variable of int,String and double
